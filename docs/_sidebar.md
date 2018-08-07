@@ -1,7 +1,7 @@
-* [**Getting Started**](home.md)
+* [👋 **Getting Started**](home.md)
 * ⛓ Crypto
-	* [Wallet](wallet.md)
-	* [Deploy](deploy.md)
+	* [💰 Wallet](wallet.md)
+	* Bitcoin ATM - *coming soon!*
 
 ---	
 * 👩‍💻 **Coming Soon!**

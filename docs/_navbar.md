@@ -1,11 +1,11 @@
 <!-- _navbar.md -->
 
-* th3.build
+* Translations *(Coming soon!)*
+  * 🇳🇱
+  * 🇩🇪
+
+* TH3.BUILD ![logo](/_media/bubble_black.svg ':size=12')
 
   * [Teaser](https://th3.build)
   * [TV](https://th3.build/tv)
   * [Newsletter](https://th3build.substack.com)
-
-* Translations *(Coming soon!)*
-  * [:us:](/)
-  * [:cn:](/zh-cn/)
