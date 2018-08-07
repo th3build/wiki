@@ -1,5 +1,3 @@
 # wiki
 
-does this update
-
-yes it [does](wallet.md)
+Visit [wiki.th3.build](http://wiki.th3.build)
