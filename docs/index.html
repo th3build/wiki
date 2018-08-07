@@ -39,6 +39,8 @@
         alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
         },
+      
+      executeScript: true,
 
       // load navbar
       loadNavbar: true,
@@ -48,23 +50,11 @@
       
       // sets homepage
       homepage: 'home.md',
-
-      search: 'auto', // default
       
-      search : [
-      '/',            
-      '/home',       
-      '/wallet',
-      ],
-
       // complete configuration parameters
       search: {
-        maxAge: 86400000, // Expiration time, the default one day
-        paths: 'auto', // or 'auto'
-        placeholder: 'Type to search',
-
-        // Headline depth, 1 - 6
-        depth: 6
+        paths: 'auto', 
+        placeholder: 'Type to search'
       }
 
       // plugins: [
