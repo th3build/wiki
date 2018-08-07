@@ -1,12 +1,11 @@
 <!-- _navbar.md -->
 
-* Getting started
+* th3.build
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [Teaser](https://th3.build)
+  * [TV](https://th3.build/tv)
+  * [Newsletter](https://th3build.substack.com)
 
-* Translate
+* Translations *(Coming soon!)*
   * [:us:](/)
   * [:cn:](/zh-cn/)

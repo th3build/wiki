@@ -1,7 +1,10 @@
 * [**Getting Started**](home.md)
-* **3rd Industrial Revolution**
-* **Crypto**
+* ⛓ Crypto
 	* [Wallet](wallet.md)
 	* [Deploy](deploy.md)
-* AI
-* IoT
+
+---	
+* 👩‍💻 **Coming Soon!**
+	* 🛠 *What's the 3rd IR?* 
+	* 🧠 *AI*
+	* 🤖 *IoT*
