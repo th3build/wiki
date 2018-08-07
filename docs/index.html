@@ -12,18 +12,47 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      
+      // name of wiki
+      name: 'th3build',
+
+      // link to github
+      repo: 'https://github.com/th3build/wiki/',
+
+      // logo
+      logo: '_media/bubble_black.svg',
+      
       // load from _sidebar.md
       loadSidebar: true,
-      alias: {
-      '/.*/_sidebar.md': '/_sidebar.md'
-      },
+        alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+        },
+      
+      // generates table of contents
       subMaxLevel: 2,
-      repo: 'https://github.com/th3build/wiki/',
-      homepage: 'home.md'
-    }
+      
+      // sets homepage
+      homepage: 'home.md',
+
+      search: 'auto', // default
+
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: ['auto'], // or 'auto'
+        placeholder: 'Type to search',
+
+        // Headline depth, 1 - 6
+        depth: 6
+      }
+
+    };
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-edit-on-github@1.0.1/index.js"></script>
+  <script type="text/javascript" src="index.js"></script>
 </body>
 </html>
