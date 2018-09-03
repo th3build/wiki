@@ -1,7 +1,8 @@
 * [👋 **Getting Started**](home.md)
 * ⛓ Crypto
 	* [💰 Wallet](wallet.md)
-	* Bitcoin ATM - *coming soon!*
+	* [🏧 Bitcoin ATM](atm.md)
+	* [✋ Forget Ads](brave.md)
 
 ---	
 * 👩‍💻 **Coming Soon!**

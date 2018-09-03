@@ -2,6 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cbMDgGD-HOE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+*You can copy the code we used to deploy multi-sig wallets [here](https://github.com/th3build/btc-multisig)*
+
 First thing you'll need to do is equip yourself with a bitcoin wallet. This will teach you the basics how to receive and send cryptocurrency so that you can begin equipping your friends!
 
 Bitcoin is more fun when you use it with people. Once you are familiar with how a cryptocurrency wallet works, you'll have the independence of being able to manage your own money, and make organizations that share money, all by yourself.
@@ -27,11 +29,10 @@ A hot wallet is any that connects to the internet. It's called hot because it's 
 
 <!-- https://www.tablesgenerator.com/markdown_tables# -->
 
-| App Name    	| Android 	| iOS 	| Windows 	| OSX 	| Linux 	| Browser Plugin 	|
-|-------------	|:-------:	|:---:	|:-------:	|:---:	|:-----:	|:--------------:	|
-| Mycelium    	|    ✅    	|     	|         	|     	|       	|                	|
-| BreadWallet 	|         	|  ✅  	|         	|     	|       	|                	|
-| Jaxx        	|    ✅    	|  ✅  	|         	|  ✅  	|       	|        ✅       	|
+**Hot Wallet Recommendations**
+Note these options should only be used for smaller amounts of money. Savings should be kept in cold storage.
+* 🖥 Windows/Mac OSX/Linux: [Electrum](https://bitcoin.org/en/wallets/desktop/mac/electrum/) | [Exodus](https://www.exodus.io/)
+* 📱 Android/iOS: [BTC.com](https://wallet.btc.com/#/setup/register) | [Coinomi](https://www.coinomi.com/downloads/) | [Edge](https://edge.app/) | [GreenAddress](https://greenaddress.it/en/wallet.html#/create_warning) 
 
 ## ❄️ Cold Storage
 
@@ -39,8 +40,17 @@ A hot wallet is any that connects to the internet. It's called hot because it's 
 
 A cold-storage wallet does not connect to the internet. It's optimized for security, meaning it's safer to store your coin compared to your hot wallet.
 
+**Cold Storage Recommendations**
+* [Trezor](https://shop.trezor.io/product/trezor-one-white)
+* [Ledger](https://www.ledger.com/products/ledger-nano-s?r=6f77f179bcff)
+
 ## 👥 Multi-Sig
 
 **Purpose**: For sharing a wallet with multiple people. Everyone must approve each transaction.
 
 A multisig (multiple-signatures) wallet lets you create organizations/projects with other people. Everyone involved can join the shared wallet, making it easy for anyone to send money to the shared wallet. This let's groups easily setup secure wallets for facilitating payments/donations to their project, without someone running off with the funds when no one is looking.
+
+**Multi-Sig Wallet Recommendations**
+
+* [CoPay](https://copay.io/) (Without Terminal)
+* [Fork th3build's multisig script](https://github.com/th3build/btc-multisig)
