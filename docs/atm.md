@@ -20,3 +20,5 @@ From a high overview:
 * Deploy and manage regular deposits to the hot wallet (keep it funded) and transfer cash to the bank.
 
 ?> For more information, visit [CoinATMRadar](https://coinatmradar.com/blog/how-to-start-a-bitcoin-atm-business/) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7VvbM04qnM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
