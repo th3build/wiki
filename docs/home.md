@@ -28,7 +28,9 @@ This is a movement.
 
 To showcase a new culture of soverignty and spotlight exciting initiatives. 
 
-We have these tools laying at our feet that are capable of building the infrastructure to transition our hometowns into smart-cities. We're the dreamers of utopia who picked up the wrench and got to work. We don't need to ask permission, anyone can rally a community and begin building the infrastructure of abundance and hyper-opportunity. When one of us succeeds, it inspires the next to copy and paste with their own local flair. By solving problems locally, we get tangible experience and become experts and knowledge leaders of this evolution. 
+We have these tools laying at our feet that are capable of building the infrastructure to transition our hometowns into smart-cities. We're the dreamers of utopia who picked up the wrench and got to work. We don't need to ask permission, anyone can rally a community and begin building the infrastructure of abundance and hyper-opportunity. When one of us succeeds, it inspires the next to copy and paste with their own local flair. By solving problems locally, we get tangible experience and become experts and knowledge leaders of this evolution.
+
+?> 💬 [Join the Conversation on Telegram](https://t.me/joinchat/HgsNFBARLMVI81P2Khr-Ow) 
 
 ## Our Swarmwise Strategy
 
