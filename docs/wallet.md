@@ -15,7 +15,7 @@ Bitcoin is more fun when you use it with people. Once you are familiar with how 
 Everytime you create a bitcoin wallet, you'll receive the following
 * **A Seed**: 12 or 24 randomly generated words. These words are used to recreate your wallet incase you lose access to it.
 * **A Private Key**: the password to spend the coin 
-* **A Public Address**: similar to an email address, you send this to everyone so they can send money to you. It's completely safe to send the public address to anyone, they won't be able to send coin without the private pey.
+* **A Public Address**: similar to an email address, you send this to everyone so they can send money to you. It's completely safe to send the public address to anyone, they won't be able to send coin without the private key.
 
 !> **The Seed is your BACKUP.** <br> 
 **When you generate this, DO NOT TAKE A SCREENSHOT.** <br>
