@@ -39,11 +39,13 @@ A hot wallet is any that connects to the internet. It's called hot because it's 
 
 **Purpose**: For secure long-term storage of your coin.
 
-A cold-storage wallet does not connect to the internet. It's optimized for security, meaning it's safer to store your coin compared to your hot wallet.
+A cold-storage wallet does not connect to the internet. It's optimized for security, meaning it's safer to store your coin compared to your hot wallet. Typically this is done via a specialized device that can send crypto without compromising it's security.
 
 **Cold Storage Recommendations**
 * [Trezor](https://shop.trezor.io/product/trezor-one-white)
 * [Ledger](https://www.ledger.com/products/ledger-nano-s?r=6f77f179bcff)
+
+?> Don't want to purchase a device? Make a paper wallet. [Learn More](https://www.youtube.com/watch?v=VTsHeiBhPIM&t=379s).
 
 ## 👥 Multi-Sig
 
