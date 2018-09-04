@@ -18,9 +18,7 @@ For the slightly savvy of you. Experiencing an adfree internet experience is act
 
 **Oh wait.**
 
-We just removed the primary revenue source for the youtube videos we watch and articles we read.
-
-*Back to the drawing Board*
+We just removed the primary revenue source for the youtube videos we watch and articles we read. **Oops.**
 
 ## Patreon
 
@@ -28,7 +26,7 @@ For those unaware of Patreon, it's a platform for subscription donations. For ex
 
 This allow content creators to setup their own basic income, by crowdfunding their income from their fans each month.
 
-But let's take further.
+*But let's take this further.*
 
 ## Blockchain Patreon
 
