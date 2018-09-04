@@ -30,9 +30,10 @@ A hot wallet is any that connects to the internet. It's called hot because it's 
 <!-- https://www.tablesgenerator.com/markdown_tables# -->
 
 **Hot Wallet Recommendations**
-Note these options should only be used for smaller amounts of money. Savings should be kept in cold storage.
 * 🖥 Windows/Mac OSX/Linux: [Electrum](https://bitcoin.org/en/wallets/desktop/mac/electrum/) | [Exodus](https://www.exodus.io/)
-* 📱 Android/iOS: [BTC.com](https://wallet.btc.com/#/setup/register) | [Coinomi](https://www.coinomi.com/downloads/) | [Edge](https://edge.app/) | [GreenAddress](https://greenaddress.it/en/wallet.html#/create_warning) 
+* 📱 Android/iOS: [BTC.com](https://wallet.btc.com/#/setup/register) | [Coinomi](https://www.coinomi.com/downloads/) | [Edge](https://edge.app/) | [GreenAddress](https://greenaddress.it/en/wallet.html#/create_warning)
+
+!> Note these options should only be used for smaller amounts of money. Savings should be kept in cold storage. 
 
 ## ❄️ Cold Storage
 
