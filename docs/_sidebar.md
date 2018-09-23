@@ -3,6 +3,7 @@
 	* [💰 Wallet](wallet.md)
 	* [🏧 Bitcoin ATM](atm.md)
 	* [✋ Forget Ads](brave.md)
+	* [💀 Bitcoin Bug](CVE-2018-17144.md)
 
 ---	
 * 👩‍💻 **Coming Soon!**
